@@ -3,7 +3,7 @@
      <div class="row">
     <div class="col-6">
     <h5>BIODATA</h5>
-    <img src="assets/biodata.jpg" class="" style="width: 70%; height: 700px;" alt="">
+    <img src="assets/biodata1.jpg" class="" style="width: 70%; height: 700px;" alt="">
   
     <p>NAMA: M.NOUVEL ZAKI</p>
     <p>ALAMAT: LENGKONG PESANTREN</p>
