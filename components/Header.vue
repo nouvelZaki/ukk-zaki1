@@ -34,6 +34,13 @@
               <h6>GALERI</h6>
             </li>
           </nuxt-link>
+          <li class="nav-item dropdown ms-2">
+        </li>
+          <nuxt-link to="/biodata">
+            <li class="nav-item">
+              <h6>BIODATA</h6>
+            </li>
+          </nuxt-link>
       </ul>
     </div>
   </div>
